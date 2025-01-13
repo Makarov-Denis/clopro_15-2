@@ -27,7 +27,8 @@
 #### Решение
 
      - Скрин Instance Group  
-  ![img_2.png](img%2Fimg_2.png)
+  ![img_2.png](![изображение](https://github.com/user-attachments/assets/a73b514b-131f-4f36-b498-22136c33c511)
+)
 
 
    - Скрин Target Group
