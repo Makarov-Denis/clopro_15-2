@@ -30,13 +30,8 @@
      
  ![img_3.png](https://github.com/user-attachments/assets/a73b514b-131f-4f36-b498-22136c33c511)
 
-
-   - Скрин Target Group
- ![img_3.png](img%2Fimg_3.png)
-![img_4.png](img%2Fimg_4.png)
-
-   - Скрин картинки на инстансах из Instance Group 
-![img_5.png](img%2Fimg_5.png)  
+   - Скрин картинки на инстансе из Instance Group 
+![img/Снимок экрана от 2025-01-13 18-55-01.png] 
 ![img_6.png](img%2Fimg_6.png)
 
 
