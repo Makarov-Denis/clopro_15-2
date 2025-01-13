@@ -26,14 +26,16 @@
  
 #### Решение
 
+
+![изображение](https://github.com/user-attachments/assets/15723407-b231-4e60-bf45-d1a2484623e3)
+
+
      * Скрин Instance Group  
      
  ![img_3.png](https://github.com/user-attachments/assets/a73b514b-131f-4f36-b498-22136c33c511)
 
    - Скрин картинки на инстансе из Instance Group 
-![img/Снимок экрана от 2025-01-13 18-55-01.png] 
-![img_6.png](img%2Fimg_6.png)
-
+![изображение](https://github.com/user-attachments/assets/58913590-a81d-4eff-aa6b-f4dbc575f8fc)
 
 3. Подключить группу к сетевому балансировщику:
 
@@ -42,8 +44,6 @@
 
 #### Решение
 
-- Конфигурация 
-[load_balancer.tf](terraform%2Fload_balancer.tf)
 
 - Проверка работоспособности при удалении одной машины
 ![img_7.png](img%2Fimg_7.png)
