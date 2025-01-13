@@ -13,7 +13,7 @@
 
 #### Решение
 
- - Скрин Бакета ![img_1.png](https://github.com/Makarov-Denis/clopro_15-2/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-01-13%2018-50-25.png?raw=true)
+* Скрин Бакета ![img_1.png](https://github.com/Makarov-Denis/clopro_15-2/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-01-13%2018-50-25.png?raw=true)
 
 Полученная ссылка для скачивания - https://storage.yandexcloud.net/dmakarov-2025-13-01/earth.jpg
 
@@ -26,7 +26,7 @@
  
 #### Решение
 
-     - Скрин Instance Group  
+     * Скрин Instance Group  
      
  ![img_3.png](https://github.com/user-attachments/assets/a73b514b-131f-4f36-b498-22136c33c511)
 
