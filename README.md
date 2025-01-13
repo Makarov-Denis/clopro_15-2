@@ -45,15 +45,19 @@
 #### Решение
 
 
+![изображение](https://github.com/user-attachments/assets/1ad3384a-56d7-4db8-9929-4434abc57d1a)
+
+
 - Проверка работоспособности при удалении одной машины
-![img_7.png](img%2Fimg_7.png)
-![img_8.png](img%2Fimg_8.png)
-![img_9.png](img%2Fimg_9.png)
-![img_10.png](img%2Fimg_10.png)
-![img_11.png](img%2Fimg_11.png)
+
+
+ ![изображение](https://github.com/user-attachments/assets/53e23488-b3f0-43ed-80db-581c6ac07674)
+
+
+ ![изображение](https://github.com/user-attachments/assets/385ca04f-2c2c-4984-8b43-17bfd4b8d0aa)
 
 - Все созданные ресурсы
-![img_12.png](img%2Fimg_12.png)
+![img_12.png]([img%2Fimg_12.png](https://github.com/Makarov-Denis/clopro_15-2/tree/main))
 
 <details>
 <summary>terraform plan</summary>
