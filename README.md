@@ -16,6 +16,7 @@
  - Скрин Бакета ![img_1.png](https://github.com/Makarov-Denis/clopro_15-2/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202025-01-13%2018-50-25.png?raw=true)
 
 Полученная ссылка для скачивания - https://storage.yandexcloud.net/dmakarov-2025-13-01/earth.jpg
+
 2. Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета:
 
  - Создать Instance Group с тремя ВМ и шаблоном LAMP. Для LAMP рекомендуется использовать `image_id = fd827b91d99psvq5fjit`.
@@ -25,10 +26,7 @@
  
 #### Решение
 
-   - Конфигурация 
-[instance-group.tf](terraform%2Finstance-group.tf)
-
-   - Скрин Instance Group  
+     - Скрин Instance Group  
   ![img_2.png](img%2Fimg_2.png)
 
 
